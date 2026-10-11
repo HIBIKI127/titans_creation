@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "titans_creation:leather_gloves",
+    "titans_creation:iron_gloves",
+    "titans_creation:climbing_gloves",
+    "titans_creation:grapple_crossbow",
+    "titans_creation:grapple_crossbow_iron",
+    "titans_creation:grapple_crossbow_diamond"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "titans_creation:item/giant_bone_blade"
+  }
+}

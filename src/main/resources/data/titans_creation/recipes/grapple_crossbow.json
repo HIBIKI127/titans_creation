@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  H",
+    " S ",
+    "C  "
+  ],
+  "key": {
+    "H": {
+      "item": "titans_creation:wooden_grapple_hook"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "C": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "result": {
+    "item": "titans_creation:grapple_crossbow"
+  }
+}

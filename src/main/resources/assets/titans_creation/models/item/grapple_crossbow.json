@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "titans_creation:item/grapple_crossbow"
+  },
+  "parent": "minecraft:item/handheld"
+}

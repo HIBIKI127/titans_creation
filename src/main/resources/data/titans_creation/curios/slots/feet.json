@@ -1,0 +1,6 @@
+{
+  "order": 150,
+  "size": 2,
+  "icon": "titans_creation:slot/empty_feet_slot",
+  "validators": ["curios:tag"]
+}

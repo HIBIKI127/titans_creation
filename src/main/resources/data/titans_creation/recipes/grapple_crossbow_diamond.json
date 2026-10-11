@@ -1,0 +1,12 @@
+{
+  "type": "titans_creation:grapple_smithing",
+  "base": {
+    "item": "titans_creation:grapple_crossbow_iron"
+  },
+  "addition": {
+    "item": "titans_creation:diamond_grapple_hook"
+  },
+  "result": {
+    "item": "titans_creation:grapple_crossbow_diamond"
+  }
+}

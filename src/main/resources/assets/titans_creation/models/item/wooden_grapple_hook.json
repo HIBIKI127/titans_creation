@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "titans_creation:item/wooden_grapple_hook"
+  },
+  "parent": "minecraft:item/generated"
+}

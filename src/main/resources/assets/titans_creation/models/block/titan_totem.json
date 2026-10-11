@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "all": "titans_creation:block/titan_totem"
+  },
+  "parent": "minecraft:block/cube_all"
+}
